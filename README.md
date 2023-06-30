@@ -70,6 +70,8 @@ My linkedin link: linkedin.com/in/misa-kamijo-7b34ba1b6
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+@all-contributors please add @<MISA3395> for <contributions>
+
   
 ## 🔗 Links
 [![Hyperion Dev portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hyperiondev.com/portfolio/143288/)
