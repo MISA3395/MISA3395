@@ -1,4 +1,4 @@
-# Hi, I'm Misa!👋
+# Hi, I'm Misa!👋  
 
 
 ## 🚀 About Me
@@ -37,7 +37,7 @@ print("Hobbies:", misa.hobbies)
 print("Current Location:", misa.current_location())
 print("Previous Locations:", misa.previous_locations())
 ```
-
+  
 ## My Profile 
 👩‍💻 I'm currently working on **Preply(online Japanese teacher)**.
 
@@ -53,16 +53,16 @@ My linkedin link: linkedin.com/in/misa-kamijo-7b34ba1b6
 * Travel
 * Cooking
 
-
+  
 ## 🛠 Skills
 * Python 
 * QAD ERP manufacturing software
 
-
+  
 ## 🔗 Links
 [![Hyperion Dev portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hyperiondev.com/portfolio/143288/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/misa-kamijo-7b34ba1b6)
 
-
+  
 ## Authors
 - [@MISA3395](https://github.com/MISA3395)
