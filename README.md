@@ -1,5 +1,6 @@
 # Hi, I'm Misa!👋
 
+
 ## 🚀 About Me
 I'm a software engineer, based in the United Kingdom.
 
@@ -37,7 +38,7 @@ print("Current Location:", misa.current_location())
 print("Previous Locations:", misa.previous_locations())
 ```
 
-## Other Common Github Profile Sections
+## My Profile 
 👩‍💻 I'm currently working on **Preply(online Japanese teacher)**.
 
 🧠 I'm currently learning **Python**.
@@ -47,18 +48,21 @@ Message me via Linkedin message!
 My linkedin link: linkedin.com/in/misa-kamijo-7b34ba1b6
 
 ⚡️ **Hobby**
-* Watching Fomula 1
+* Watching Formula 1
 * Movies
 * Travel
 * Cooking
+
 
 ## 🛠 Skills
 * Python 
 * QAD ERP manufacturing software
 
+
 ## 🔗 Links
 [![Hyperion Dev portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hyperiondev.com/portfolio/143288/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/misa-kamijo-7b34ba1b6)
+
 
 ## Authors
 - [@MISA3395](https://github.com/MISA3395)
