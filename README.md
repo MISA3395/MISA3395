@@ -63,6 +63,10 @@ My linkedin link: linkedin.com/in/misa-kamijo-7b34ba1b6
 [![Hyperion Dev portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hyperiondev.com/portfolio/143288/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/misa-kamijo-7b34ba1b6)
 
+
+
+![Logo](https://github.com/MISA3395/MISA3395/issues/1#issue-1783881748)
+
   
 ## Authors
 - [@MISA3395](https://github.com/MISA3395)
