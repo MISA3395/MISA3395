@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a software engineer, based in the United Kingdom.
+I'm a software engineer, based in the United Kingdom. 
 
 I have been studying Python at Hyperion Dev Bootcamp for 4 month now. After gaining experience as a Japanese teacher and logistics assistant, I am passionate about Python junior software engineering now and I am learning every day to make the world a better place as a programmer. I do enjoy very very much what I learn.
 
