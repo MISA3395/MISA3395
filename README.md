@@ -65,7 +65,7 @@ My linkedin link: linkedin.com/in/misa-kamijo-7b34ba1b6
 
 
 
-![Logo](https://github.com/MISA3395/MISA3395/issues/1#issue-1783881748)
+![image_processing20220424-8041-1xbr0fm](https://github.com/MISA3395/MISA3395/assets/132083386/952176ae-1740-4b2c-9007-a85af4a079e8)
 
   
 ## Authors
